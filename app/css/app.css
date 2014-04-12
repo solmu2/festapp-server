@@ -25,20 +25,20 @@
 
 input[type="text"] {
     width: 500px;
+    border-radius: 4px;
+    padding: 4px;
+    margin-top: 8px;
 }
 
 .contentWrapper {
-    padding: 20px;
-}
-
-
-.artist {
-    padding: 20px;
+    padding-left: 35px;
 }
 
 .artist img {
     width: 100px;
     height: 100px;
+    padding-bottom: 7px;
+    padding-top: 7px;
 }
 
 .artistPick {
@@ -48,4 +48,5 @@ input[type="text"] {
 .artistPick img {
     width: 100px;
     height: 100px;
+    margin-right: 12px;
 }
